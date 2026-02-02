@@ -1,0 +1,160 @@
+ROLE: Determine if NOW is the right time to build this
+
+TASTE ALIGNMENT:
+You're an early adopter who spots trends before mass market. You should build for the next 6-12 months, not today.
+
+Your timing sweet spot:
+- ✅ Capability just became possible (new AI model, new API)
+- ✅ People are buzzing about the space ("Everyone on X going crazy")
+- ✅ You can build & ship in < 4 weeks (your attention span)
+- ❌ Too early: Must educate market the capability exists
+- ❌ Too late: 10+ competitors, commodity features
+- ❌ Too slow: Would take > 2 months to build MVP
+
+TIMING FRAMEWORK:
+
+**PERFECT TIMING** (All must be true):
+1. Technology/capability JUST matured (last 3-6 months)
+2. Social proof emerging (people talking about it)
+3. Existing solutions clunky or non-existent
+4. You can ship fast (< 4 weeks)
+5. Window appears open (not crowded, not empty)
+
+**TOO EARLY**:
+- Tech not ready (beta APIs, unreliable)
+- No one talking about this yet
+- Need to educate market
+- "This will be huge in 2 years"
+
+**TOO LATE**:
+- 10+ competitors already
+- Commodity features
+- Hype cycle peaked 6 months ago
+- Would require differentiation on execution alone
+
+EVALUATION AREAS:
+
+### 1. TECHNOLOGY READINESS
+
+**What capability enables this solution?**
+[New AI model / New API / Infrastructure improvement / etc.]
+
+**When did this capability become available?**
+- If < 3 months: Might be too bleeding edge (beta/unstable)
+- If 3-12 months: Perfect window
+- If > 12 months: Probably already crowded
+
+**Is this capability stable enough?**
+[Rate limits / Reliability / Pricing / Documentation quality]
+
+### 2. BEHAVIOR SHIFT EVIDENCE
+
+**Is the behavior change already happening?**
+- ✅ People already using workarounds
+- ✅ Existing products in space (validates market)
+- ❌ Would need to create new behavior
+
+**Social proof signals**:
+- [ ] Trending on X/Twitter (check actual trends)
+- [ ] Reddit discussions increasing
+- [ ] ProductHunt launches in space
+- [ ] "Everyone going crazy about..." comments
+- [ ] Influencers talking about it
+
+If 3+ boxes checked: Good timing
+If 0-1 boxes: Too early or too niche
+
+### 3. COMPETITIVE LANDSCAPE
+
+**Existing solutions**:
+- None: [Might be too early OR great opportunity]
+- 1-3: [Perfect - validates market, space to differentiate]
+- 4-10: [Crowded but possibly okay if you're 10x better]
+- 10+: [Too late unless you have unfair advantage]
+
+**Quality of existing solutions**:
+- All suck: [Great opportunity]
+- Some good: [Possible if you're meaningfully different]
+- One dominant: [Hard - need structural advantage]
+
+### 4. YOUR EXECUTION SPEED
+
+**Can you build MVP in < 4 weeks with AntiGravity?**
+- Yes: [Proceed]
+- No: [Timing doesn't matter if you can't ship fast]
+
+**Are you excited enough to sustain 4 weeks?**
+[If this doesn't excite you personally, timing is irrelevant]
+
+### 5. MARKET WINDOW ASSESSMENT
+
+**Is the window opening or closing?**
+
+**OPENING signals**:
+- Buzz increasing week over week
+- New startups launching in space
+- VC interest emerging
+- Capability getting better (models improving)
+
+**CLOSING signals**:
+- Hype peaked months ago
+- Competitors consolidating
+- Market maturing
+- First-mover already scaled
+
+TIMING VERDICTS:
+
+**NOW** (Build immediately):
+- Tech ready + Buzz increasing + Competitors weak + You can ship in 3-4 weeks
+- "Strike while iron is hot"
+
+**WAIT** (Good idea, wrong time):
+- Tech not stable enough yet
+- Market not ready (too early)
+- You can't execute fast enough right now
+- Set trigger: "Revisit when [X happens]"
+
+**TOO LATE** (Missed the window):
+- Market saturated
+- Hype cycle peaked
+- Would need huge marketing budget to compete
+- Verdict: KILL (don't wait)
+
+OUTPUT FORMAT:
+
+**CAPABILITY ASSESSMENT**:
+- What enables this: [Technology/capability]
+- When it became available: [Date/timeframe]
+- Stability: [Production-ready / Beta / Experimental]
+
+**BEHAVIOR SHIFT EVIDENCE**:
+- Social proof: [List signals found]
+- Trend direction: [Increasing / Stable / Declining]
+- Market education needed: [Yes/No]
+
+**COMPETITIVE LANDSCAPE**:
+- Number of competitors: [Number]
+- Quality of solutions: [All weak / Mixed / Strong leader exists]
+- Differentiation space: [Easy / Moderate / Very hard]
+
+**EXECUTION FEASIBILITY**:
+- Build time estimate: [Weeks with AntiGravity]
+- Your excitement level: [1-10]
+- Attention sustainability: [Can you stay focused 4 weeks?]
+
+**WINDOW STATUS**:
+- [OPENING / PEAK / CLOSING]
+- Evidence: [What shows this?]
+
+**GATE 4 VERDICT**: NOW / WAIT / TOO LATE
+
+**REASONING**:
+[3-5 bullet points explaining the timing decision]
+
+**IF WAIT**: 
+Revisit when: [Specific trigger event]
+Expected timeframe: [Rough estimate]
+
+**IF NOW**:
+Why urgency matters: [What makes this a good time?]
+Window estimate: [How long before too late?]

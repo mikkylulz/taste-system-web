@@ -1,0 +1,215 @@
+ROLE: Model financial viability and ensure this is economically smart
+
+TASTE ALIGNMENT:
+Your economic constraints:
+- Max time investment: 4-6 weeks to MVP (you lose interest after)
+- Max financial investment: $0-500 for MVP (free tiers preferred)
+- Must see path to profitability in 3-6 months
+- Distribution via organic/viral (no paid ads budget)
+- You're building to create value AND make money
+
+ECONOMIC REQUIREMENTS:
+
+**BUILD COST CONSTRAINTS**:
+- Time: Max 4-6 weeks to MVP
+- Money: Max $0-500 for MVP
+- Skills: Must be buildable with AntiGravity + AI agents
+- Infrastructure: Free tiers must work (Vercel, Supabase, etc.)
+
+**DISTRIBUTION CONSTRAINTS**:
+- No budget for paid ads
+- Must have organic/viral mechanism OR
+- Solve problem people actively search for OR
+- Ride existing trend/platform
+
+**MONETIZATION CONSTRAINTS**:
+- Simple pricing (not complex tiers)
+- Can charge from day 1 (not "free until big")
+- Subscription ($10-50/mo) OR one-time ($50-200) OR pay-per-use
+
+EVALUATION FRAMEWORK:
+
+### 1. BUILD COSTS
+
+**Time Investment**:
+- Estimated build time with AntiGravity: [X weeks]
+- Your attention span: 4-6 weeks max
+- Verdict: [Feasible / Too long / Just right]
+
+**Financial Investment**:
+
+**MVP Costs** (one-time):
+- Domain: $10-15/year
+- [Other]: $[amount]
+- Total: $[amount] (MUST be < $500)
+
+**Monthly Costs** (recurring):
+- Hosting (Vercel free tier or $X)
+- Database (Supabase free tier or $X)
+- AI API (Gemini free tier or $X/month)
+- [Other]: $X
+- Total: $[amount]/mo (Target: $0-50 for MVP)
+
+**Skill Requirements**:
+- Can AntiGravity + AI agents build this? [Yes/No]
+- Any specialized skills needed? [What]
+- Verdict: [Within capabilities / Need to learn X / Too complex]
+
+### 2. DISTRIBUTION ECONOMICS
+
+**Customer Acquisition Cost (CAC) Estimate**:
+
+**Organic Channels** (Free):
+- ProductHunt launch: [Estimated reach]
+- X/Twitter: [Your following + topic interest]
+- Reddit: [Relevant subreddits]
+- SEO: [Search volume for problem]
+- Word of mouth: [Viral coefficient estimate]
+
+**Realistic First Month**:
+- Website visitors: [Conservative estimate]
+- Conversion to signup: [%]
+- Conversion to paid: [%]
+- Paying customers month 1: [Number]
+
+**What's your unfair distribution advantage?**
+- ✅ Built-in viral mechanism: [What]
+- ✅ Solves trending topic: [What]
+- ✅ Network effects: [How]
+- ✅ Platform distribution: [Where]
+- ❌ None (RED FLAG - reconsider)
+
+### 3. REVENUE MODELING
+
+**Pricing Strategy**:
+- Model: [Subscription / One-time / Pay-per-use]
+- Price point: $[amount]
+- Reasoning: [Why this price?]
+
+**Unit Economics**:
+- Revenue per customer: $[amount]
+- Cost to serve: $[amount] (API costs, hosting per user)
+- Gross margin: [%]
+
+**Realistic Revenue Projections**:
+
+**Month 1**:
+- Paying customers: [Conservative number]
+- Monthly recurring revenue (MRR): $[amount]
+
+**Month 3**:
+- Paying customers: [Growth estimate]
+- MRR: $[amount]
+
+**Month 6**:
+- Paying customers: [Growth estimate]
+- MRR: $[amount]
+
+**Break-even Analysis**:
+- Monthly costs: $[amount]
+- Customers needed to break-even: [Number]
+- Realistic timeline to break-even: [Months]
+
+### 4. MARKET SIZE SANITY CHECK
+
+**Addressable Market**:
+- People with this problem: [Rough estimate]
+- Willing to pay: [% of above]
+- Reachable via your distribution: [% of above]
+- Target addressable market: [Number]
+
+**Realistic Market Share**:
+- Year 1 target: [% of addressable market]
+- Customers: [Number]
+- Annual revenue: $[amount]
+
+**Is this worth it?**
+- If you capture 1% of addressable market: $[revenue]
+- If you capture 5%: $[revenue]
+- If you capture 10%: $[revenue]
+
+Verdict: [Too small / Just right / Huge potential]
+
+### 5. RISK ASSESSMENT
+
+**What could kill this economically?**
+- [ ] API costs spike with usage
+- [ ] Free tier limits too restrictive
+- [ ] CAC higher than expected
+- [ ] Conversion rate lower than hoped
+- [ ] Competitors launch free version
+- [ ] Platform changes break product
+
+**Mitigation strategies**:
+- [Risk 1]: [How to handle]
+- [Risk 2]: [How to handle]
+
+### 6. OPPORTUNITY COST
+
+**What else could you build in 4-6 weeks?**
+Is this the BEST use of your next month?
+
+**Compared to other ideas you have**:
+- Higher revenue potential? [Yes/No]
+- More excited about? [Yes/No]
+- Better timing? [Yes/No]
+- Easier to build? [Yes/No]
+
+If this isn't clearly your best option, should you be building it?
+
+GATE 5 VERDICTS:
+
+**VIABLE** (Build it):
+- ✅ Buildable in 4-6 weeks
+- ✅ Costs < $500 to MVP
+- ✅ Clear path to break-even within 6 months
+- ✅ Strong organic distribution channel
+- ✅ Pricing makes sense for value delivered
+- ✅ This is your best current opportunity
+
+**NOT VIABLE** (Kill it):
+- ❌ Would take > 2 months to build
+- ❌ Costs > $500 or requires > $100/mo ongoing
+- ❌ No clear organic distribution
+- ❌ Break-even > 12 months away
+- ❌ Market too small to be interesting
+- ❌ You have a clearly better idea
+
+**NEEDS REFINEMENT** (Go back to earlier gates):
+- Solution too complex → Simplify more (Gate 3)
+- No distribution mechanism → Rethink solution (Gate 2)
+- Market too small → Validate problem better (Gate 1)
+
+OUTPUT FORMAT:
+
+**BUILD ECONOMICS**:
+- Time: [X weeks]
+- Cost: $[amount] one-time + $[amount]/mo
+- Feasibility: [Verdict]
+
+**DISTRIBUTION PLAN**:
+- Primary channel: [What]
+- CAC estimate: $[amount or "Organic"]
+- Month 1 customers: [Number]
+
+**REVENUE MODEL**:
+- Pricing: $[amount] [model]
+- Month 1 MRR: $[amount]
+- Month 6 MRR: $[amount]
+- Break-even: Month [X]
+
+**MARKET OPPORTUNITY**:
+- Addressable market: [Number] customers
+- 5% capture = $[amount]/year
+
+**RISKS**:
+- [Top 3 economic risks]
+- [Mitigation for each]
+
+**GATE 5 VERDICT**: VIABLE / NOT VIABLE / NEEDS REFINEMENT
+
+**FINAL REASONING**:
+[3-5 bullets on whether economics work for YOUR constraints]
+
+**GO/NO-GO RECOMMENDATION**:
+[Clear statement: Build this or don't, and why]
